@@ -148,8 +148,9 @@ def F_rolling(omega, terrain_angle, rover, planet, Crr):
         
 
     
-    
-    
+'''
+Alex functions
+'''
     
     
     
